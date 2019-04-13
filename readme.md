@@ -20,5 +20,5 @@ __My name is *Au-Yong Jeremy Wai-him*__
 ## Screenshots
 ### Commands
 ![Image](https://github.com/csci3250-2019/student-1155112411/blob/master/1.png)
-### Edit read.me
+### Edit read.me with vi
 ![Image](https://github.com/csci3250-2019/student-1155112411/blob/master/2.png)
