@@ -1,7 +1,7 @@
 ## About me
 __My name is *Au-Yong Jeremy Wai-him*__
--Computer Science student in CUHK
--First time using Github
+- Computer Science student in CUHK
+- First time using Github
 
 | Favourite Courses |
 |-------------------|
